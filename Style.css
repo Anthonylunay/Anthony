@@ -1,18 +1,70 @@
-<head>{
-background-color:#0000;
+<style>
+            p
+            {
+                color: blue;
+            }
+        </style>
+
+header{
+
+  color:black;
+  background-color:white;
+  background-image: url(https://addons.opera.com/media/CACHE/images/themes/35/94135/1.0-rev1/images/0f713e40-058b-409d-a79e-406145949410/cf09fa3c903e0579828148f7c0ee0aae.jpg);
+
+;vertical-align:top;text-align:center;
+}
+body {
+  ul {
+  list-style-type:none;
+}
+nav {
+
 }
 
-body{
-background-color:#ececec;
-}
+color:black;
+background-color:#eee 100%;
+background-image:url(images/image_de_fond.png);
+border-width:2px;
+border-style:solid;
+border-color:black;
 
-<footer>{
-background-color:#0000;
 }
+nav{
+  text-align: right;background-color:#333333;height: 100;align-content: flex-start;padding:inherit;
+  background-color:white;
+  background-image: url(https://addons.opera.com/media/CACHE/images/themes/35/94135/1.0-rev1/images/0f713e40-058b-409d-a79e-406145949410/cf09fa3c903e0579828148f7c0ee0aae.jpg);
+  border-width:1px;
+ border-style:solid;
+ border-color:black;
 
+  }
+
+section{
+
+
+background-color: white;color: black; background-image: url(http://www.fondsecran.eu/a/get_photo/59048/1440/900)he
+}
 h1 {
-    text-align: center;
+    text-align: center;height: 100;color: #FFFFFF
+
 }
 h2 {
-    text-align: center;
+    text-align: left;
+    border-width:1px;
+   border-style:solid;
+   border-color:black;
+   padding: 7px 7px;
+   background-image: url(http://www.fondsecran.eu/a/get_photo/59048/1440/900)
+}
+footer
+{
+  text-align: left;
+  border-width:1px;
+ border-style:solid;
+ border-color:black;
+ color:black;
+ color:black;
+ background-color:white;
+ background-image: url(https://addons.opera.com/media/CACHE/images/themes/35/94135/1.0-rev1/images/0f713e40-058b-409d-a79e-406145949410/cf09fa3c903e0579828148f7c0ee0aae.jpg);
+
 }
